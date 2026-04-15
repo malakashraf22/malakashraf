@@ -119,18 +119,18 @@ html, body{
 
 
  table {
-    width: 90%;
+    width: 95%;
     min-width: auto;
-    margin: 20px auto ;
+    margin: 15px auto ;
     border-collapse: collapse ;
     text-align: center ;
 
  }
 
  .table{
-    width: 90%; 
-    padding: 0 20px;
-    margin: 20px auto;
+    width: 95%; 
+    padding: 0 15px;
+    margin: 15px auto;
  }
 
  th {
