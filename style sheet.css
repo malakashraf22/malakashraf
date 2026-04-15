@@ -172,6 +172,10 @@ html, body{
         padding-top: 15px;
     }
 
+    h4{
+        font-size: 15px;
+    }
+
     .form{
         margin: 20px auto;
         padding: 10px;
