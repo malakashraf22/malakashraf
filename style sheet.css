@@ -84,7 +84,7 @@ html, body{
     margin-top: 10px;
     color: #034f4d;
     font-size: 2rem;
-    padding: 20px;
+    padding: 10px;
     padding-top: 20px;
  }
 
@@ -109,7 +109,7 @@ html, body{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 10px;
+    padding: 5px;
 
  }
 
@@ -199,7 +199,8 @@ html, body{
     }
 
     button{
-        margin-top: 5px;
+        margin-top: 0;
+        padding: 0;
     }
 
  }
