@@ -101,6 +101,7 @@ html, body{
     .table{
         display: block;
         overflow-x: auto;
+        padding: 20px;
     }
 
     .p{
@@ -123,8 +124,13 @@ html, body{
     margin: 30px auto ;
     border-collapse: collapse ;
     text-align: center ;
-    padding:20px;
 
+ }
+
+ .table{
+    padding: 20px;
+    width: 90%;
+    margin: 30px auto;
  }
 
  th {
