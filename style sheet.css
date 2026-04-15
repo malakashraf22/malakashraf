@@ -120,17 +120,17 @@ html, body{
 
  table {
     width: 90%;
-    min-width: 500px;
-    margin: 30px auto ;
+    min-width: auto;
+    margin: 20px auto ;
     border-collapse: collapse ;
     text-align: center ;
 
  }
 
  .table{
-    padding: 20px;
-    width: 90%;
-    margin: 30px auto;
+    width: 90%; 
+    padding: 0 20px;
+    margin: 20px auto;
  }
 
  th {
