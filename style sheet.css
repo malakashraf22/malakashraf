@@ -101,7 +101,7 @@ html, body{
     .table{
         display: block;
         overflow-x: auto;
-        padding: 20px;
+        padding: 10px;
     }
 
     .p{
