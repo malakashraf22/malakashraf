@@ -113,6 +113,11 @@ html, body{
 
  }
 
+ nav ul{
+    margin-top: 0;
+    padding-top: 0;
+ }
+
  nav a{
   margin-right: 30px;
   transition: 0.3s;
@@ -201,7 +206,7 @@ html, body{
 
  h4{
     font-size: 25px;
-    color: #034f4a;
+    color: #04625c;
     text-align: center;
     width: 100%;
  }
