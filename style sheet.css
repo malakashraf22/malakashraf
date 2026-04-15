@@ -163,6 +163,18 @@ html, body{
         padding: 10px;
     }
 
+    .c p{
+        font-size: 20px;
+    }
+
+    .o p{
+        font-size: 25px;
+    }
+
+    .logo{
+        margin-bottom: 20px;
+    }
+
     .p{
         font-size: 14px;
     }
