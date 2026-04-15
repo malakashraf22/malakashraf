@@ -37,6 +37,25 @@ html, body{
     margin-bottom: 50px;
  }
 
+ .logo{
+    display: flex;
+    font-size: 24px;
+ }
+
+ .c p{
+    margin: 0;
+    color: #e7eee5;
+    font-size: 30px ;
+    font-style: italic;
+ }
+
+ .o p{
+    color: #034f33;
+    font-size: 30px;
+    font-style: italic;
+    
+ }
+
   h2{
     text-align: center;
     margin-bottom: 40px;
@@ -111,7 +130,7 @@ html, body{
         align-items: center;
         padding: 20px 0;
     }
-    
+
     .table{
         display: block;
         overflow-x: auto;
