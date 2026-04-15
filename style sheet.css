@@ -177,7 +177,7 @@ html, body{
     }
 
     .logo{
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
 
     .p{
@@ -185,7 +185,7 @@ html, body{
     }
 
     h2{
-        margin-bottom: 5px;
+        margin-bottom: 3px;
         padding-top: 15px;
     }
 
@@ -294,7 +294,7 @@ form {
     border-left-width: 10px;
     padding-top: 15px;
     margin-bottom:40px;
-padding-bottom: 10px;
+padding-bottom: 5px;
     display: flex;
     flex-direction: column;
 }
