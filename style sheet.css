@@ -63,7 +63,7 @@ html, body{
  .exp p{
     font-size: 25px;
     text-align: center;
-    color: #076f49;
+    color: #0d6e6e;
     transition: 0.3s;
     margin: 20px 0;
  }
@@ -80,8 +80,8 @@ html, body{
 
   h2{
     text-align: center;
-    margin-bottom: 10px;
-    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
     color: #034f4d;
     font-size: 2rem;
     padding: 20px;
@@ -91,7 +91,7 @@ html, body{
  h3{
     text-align: center;
     font-size: 30px;
-    color: #034f53;
+    color: #02686d;
     padding: 10px;
  }
 
